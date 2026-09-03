@@ -40,11 +40,11 @@ The project focuses on:
 
 ### 📊 Dashboard
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Screenshot/dashboard.png)
 
 ### 📋 Pivot Tables
 
-![Pivot Tables](PV.png)
+![Pivot Tables](Screenshot/PV.png)
 
 ## 📁 Project File
 
