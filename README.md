@@ -31,9 +31,20 @@ The project focuses on:
 ## 🛠️ Tools
 
 - 📗 Microsoft Excel
+- 🔄 Power Query
 - 📊 Pivot Tables
 - 📈 Pivot Charts
 - 🎛️ Slicers
+
+## 🖼️ Project Preview
+
+### 📊 Dashboard
+
+![Sales Dashboard](dashboard.png)
+
+### 📋 Pivot Tables
+
+![Pivot Tables](PV.png)
 
 ## 📁 Project File
 
