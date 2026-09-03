@@ -43,4 +43,4 @@ The project focuses on:
 
 **Beshoy Medhat**
 
-Junior Data Analyst
+Data Analyst
